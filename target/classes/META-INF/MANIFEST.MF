@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: cross-solar-java
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ADJETTER
+Implementation-Vendor-Id: org.springframework.samples
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/cross-solar-
+ java/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

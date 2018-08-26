@@ -1,6 +1,7 @@
 package com.crossover.techtrial.model;
 
 import java.io.Serializable;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -8,7 +9,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
-import org.springframework.lang.Nullable;
 
 /**
  * Panel class hold information related to a Solar panel.
@@ -36,7 +36,6 @@ public class Panel implements Serializable {
   @Column(name = "latitude")
   Double latitude;
 
-  @Nullable
   @Column(name = "brand")
   String brand;
 
